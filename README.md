@@ -111,8 +111,8 @@ These are ideas to further enhance and productionize this Terraform setup:
 
 Shaik Arifulla
 🚀 DevOps | Terraform | AWS | Kubernetes | CI/CD | Cloud Automation
-🔗 LinkedIn → https://www.linkedin.com/in/arifullashaikofficial/
-📁 GitHub → https://github.com/ARIFULLALAB01/
+🔗 LinkedIn → https://www.linkedin.com/in/vishnupolisetti/
+📁 GitHub → https://github.com/pvcrao
 
 ⭐ If you find this project helpful, feel free to fork, star, or connect with me on LinkedIn!
 
